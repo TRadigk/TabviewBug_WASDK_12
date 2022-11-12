@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TabviewBug_WASDK_12 (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "TabviewBug_WASDK_12 (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
